@@ -1,2 +1,1 @@
-Built a system to analyze credit risk associated with customers using real-world data from bank and CIBIL
-bureau.
+This project implements a machine learning system to analyze the credit risk associated with customers using real-world data from a bank and CIBIL bureau. The system aims to predict and assess the likelihood of a customer defaulting on credit, providing valuable insights for financial institutions.
